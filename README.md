@@ -1,1 +1,1 @@
-# Dog-breed-detection
+# Dog-breed-classification
